@@ -26,3 +26,5 @@ Phiên bản đại tu toàn diện về khả năng đọc hiểu đề thi và
 2. Bật **Developer mode** (Chế độ dành cho nhà phát triển).
 3. Bấm **Load unpacked** (Tải tiện ích đã giải nén) và chọn thư mục `D:\OnLuyen_AutoSolver_Ultra`.
 4. Phím tắt: `Alt + S` (Bật/Tắt) | `Alt + R` (Giải lại câu đang mở và tránh đáp án sai cũ).
+
+##vid hướng dẫn: https://youtu.be/Gu7u0QoVwxc
